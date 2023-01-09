@@ -12,8 +12,8 @@ Seja bem-vindo ao meu portfólio de projetos! Sou um analista de dados, com conh
 
 ### Projetos
 
-* [Análise de Execução Orçamentária]()
-* [Problema de Negócio - Aluguel de Bicicletas]()
-* [Análise do Mercado de Alugueis no Rio de Janeiro]()
+* [Análise de Execução Orçamentária](https://github.com/lucas-a-correa/Analise-Orcamentaria-2022)
+* [Problema de Negócio - Aluguel de Bicicletas](https://github.com/lucas-a-correa/Bike-Sharing-Report)
+* [Análise do Mercado de Alugueis no Rio de Janeiro](https://github.com/lucas-a-correa/Rent-Scraping)
 * [Projeto de Pipeline - Telegram e AWS]()
 * [Análise de Dados Logísticos - Loggi]()
